@@ -1,6 +1,19 @@
 - 👋 Hi, I’m @icebenitez
-- 👀 I’m interested in React / Nodejs
-- 🌱 I’m currently learning Python for Data Science
+- 👀 I’m interested in Full Stack Web Development
+- These are my skills:
+  - Front-End:
+    - React/Next
+    - WordPress
+    - Bootstrap
+  - Back-End:
+    - Node/Express
+  - Misc
+    - NoSQL (MongoDB)
+    - SQL
+- 🌱 What I’m currently learning: 
+  - Python
+  - Redis
+  - GraphQL
 
 
 <!---
