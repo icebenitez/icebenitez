@@ -3,17 +3,16 @@
 - These are my skills:
   - Front-End:
     - React/Next
-    - WordPress
-    - Bootstrap
   - Back-End:
     - Node/Express
+    - Firebase Functions
   - Misc
     - NoSQL (MongoDB)
     - SQL
 - 🌱 What I’m currently learning: 
   - Python
-  - Redis
-  - GraphQL
+  - Rust
+  - TypeScript
 
 
 <!---
